@@ -13,4 +13,3 @@ const CONFIG = {
     mess: 'Thôi không có ny cũng không sao hết',
     messDesc: 'Nhân ngày phụ nữ Việt Nam ( tuy cậu chưa là phụ nữ), tớ chúc cậu ngày càng xênh đẹp, luôn cutee phô mai que, luôn vui vẻ, đạt đc nhiều thành công trên con đường đã chọn, và đặc biệt là sớm có ny nè :>',
     btnAccept: 'Cảm ơn cậu nhìuuuu <3',
-    end.
